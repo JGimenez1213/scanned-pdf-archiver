@@ -3,10 +3,10 @@ This sofware is a Python-based document management tool that automates the handl
 
 Features:
 
-Automated PDF Organization: Moves scanned documents to the appropriate folders based on extracted text.
+  -Automated PDF Organization: Moves scanned documents to the appropriate folders based on extracted text.
 
-OCR Integration: Uses Tesseract to recognize text within scanned documents.
+  -OCR Integration: Uses Tesseract to recognize text within scanned documents.
 
-High Performance: Optimized to handle a large volume of files with minimal processing time.
+  -High Performance: Optimized to handle a large volume of files with minimal processing time.
 
-Customizable Workflow: Can be adapted for different document structures and naming conventions.
+  -Customizable Workflow: Can be adapted for different document structures and naming conventions.
